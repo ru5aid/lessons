@@ -4,7 +4,7 @@ let addExpenses;
 let deposit;
 let mission;
 let period;
-let str = 'Hello World';
-    console.log(str);
+let message = 'Hello World!';
+    console.log(message);
 
-alert ('hi');
+alert ('hi!');
